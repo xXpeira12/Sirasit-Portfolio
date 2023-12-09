@@ -75,7 +75,7 @@ export const data = [
         title: "Development of Computer vision to detect Herbs",
         picture: "",
         materials: [
-            {type: faGithub, link:""},
+            {type: faGithub, link:"https://github.com/xXpeira12/Herbs-Detection.git"},
             {type: faLink, link:"https://www.canva.com/design/DAEqKOzMoc4/xvzYHSGYCWjKQujqTteEoA/view?utm_content=DAEqKOzMoc4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"}
         ],
         descriptions:[
