@@ -3,8 +3,8 @@ const Work_Image=({picture,title})=>{
         return null;
     }
     return(
-        <div>
-            <img src={picture} alt={title} className="w-3/6 rounded-md"></img>
+        <div className="w-5/6 bg-primaryAccent p-0.5 rounded-md">
+            <img src={picture} alt={title} className="object-scale-down rounded-md"></img>
         </div>
     )
 }

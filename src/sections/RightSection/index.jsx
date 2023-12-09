@@ -7,7 +7,7 @@ const RightSection = ({ onInitial }) =>{
     return(
         <div className="grid gap-y-10 lg:gap-y-30 px-3 py-2">
             <About title="About" onInitial={onInitial} ></About>
-            <ContentContainer onInitial={onInitial} title="Content 1" data={content1Data}></ContentContainer>
+            <ContentContainer onInitial={onInitial} title="Projects" data={content1Data}></ContentContainer>
             <Footer></Footer>
         </div>
     )
