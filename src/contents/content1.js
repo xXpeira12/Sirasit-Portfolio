@@ -8,7 +8,7 @@ export const data = [
         title: "2Doo : To-do list web application",
         link: "",
         materials: [
-            {type: faGithub, link: ""},
+            {type: faGithub, link: "https://github.com/xXpeira12/2Doo-To-Do-List-Web-Application.git"},
             {type: faLink, link: "https://www.canva.com/design/DAFwfCMJbDU/6zDzh-Qzg5YssMCJ7EEFpw/view?utm_content=DAFwfCMJbDU&utm_campaign=designshare&utm_medium=link&utm_source=viewer"}
         ],
         descriptions: [
