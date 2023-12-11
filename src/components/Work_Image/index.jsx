@@ -3,7 +3,7 @@ const Work_Image=({picture,title})=>{
         return null;
     }
     return(
-        <div className="w-5/6 bg-primaryAccent p-0.5 rounded-md">
+        <div className="w-5/6 bg-primaryAccent p-0.5 rounded-lg mt-3">
             <img src={picture} alt={title} className="object-scale-down rounded-md"></img>
         </div>
     )
