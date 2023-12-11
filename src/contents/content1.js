@@ -6,7 +6,7 @@ export const data = [
         date: "2023",
         picture: "",
         title: "2Doo : To-do list web application",
-        link: "",
+        link: "https://xxpeira12.github.io/2Doo-To-Do-List-Web-Application/",
         materials: [
             {type: faGithub, link: "https://github.com/xXpeira12/2Doo-To-Do-List-Web-Application.git"},
             {type: faLink, link: "https://www.canva.com/design/DAFwfCMJbDU/6zDzh-Qzg5YssMCJ7EEFpw/view?utm_content=DAFwfCMJbDU&utm_campaign=designshare&utm_medium=link&utm_source=viewer"}
