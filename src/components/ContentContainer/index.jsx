@@ -52,7 +52,7 @@ const ContentContainer = ({
                                 ))
                             }
                             <div>
-                                <div className="flex gap-4 text-s">
+                                <div className="flex flex-wrap gap-4 text-s">
                                     {
                                         skills.map((e, i)=>(
                                             <Skill key={`${e}-skill-${i}`} isHighLight={isMouseEnter[[`${SECTION_ID}-${index}`]]} tech={e}></Skill>
