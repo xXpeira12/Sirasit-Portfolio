@@ -1,5 +1,15 @@
 export const data = [
     {
+        date: "May - July 2025",
+        title: "Programmer Intern, Indragate Mission Co., Ltd.",
+        materials: [],
+        descriptions: [
+            "· Land Analysis App, developed a full-stack web application integrating multi-modal data pipelines (geospatial analytics and financial records) to algorithmically calculate credit risk profiles for the agricultural sector.",
+            "· Document Platform, built a sophisticated NLP pipeline featuring semantic search implementation, relevance scoring algorithms, and LLM integration to enhance document interpretation and automated entity extraction. ",
+        ],
+        skills: []
+    },
+    {
         date: "May - July 2024",
         title: "Programmer Intern, Ayodia Company",
         materials: [],
